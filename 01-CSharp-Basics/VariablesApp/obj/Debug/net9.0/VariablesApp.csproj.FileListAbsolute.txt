@@ -1,0 +1,15 @@
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\bin\Debug\net9.0\VariablesApp.exe
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\bin\Debug\net9.0\VariablesApp.deps.json
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\bin\Debug\net9.0\VariablesApp.runtimeconfig.json
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\bin\Debug\net9.0\VariablesApp.dll
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\bin\Debug\net9.0\VariablesApp.pdb
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.AssemblyInfoInputs.cache
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.AssemblyInfo.cs
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.csproj.CoreCompileInputs.cache
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.sourcelink.json
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.dll
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\refint\VariablesApp.dll
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.pdb
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\VariablesApp.genruntimeconfig.cache
+D:\Development\Dotnet\Dotnet-Foundations\01-CSharp-Basics\VariablesApp\obj\Debug\net9.0\ref\VariablesApp.dll
